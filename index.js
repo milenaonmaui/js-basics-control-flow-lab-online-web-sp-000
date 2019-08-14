@@ -7,7 +7,7 @@ function scuberGreetingForFeet(distance) {
   } else if (distance > 2500) {
     result = 'Ride is not allowed';
   } else if (distance > 2000) {
-    result = '$30 charge'
+    result = 'I will gladly take your thirty bucks.'
   } 
   return result;
   
