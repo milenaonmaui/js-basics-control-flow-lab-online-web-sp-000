@@ -3,7 +3,7 @@ function scuberGreetingForFeet(distance) {
   let result;
   
   if (distance <= 400) {
-    result = 'Free sample';
+    result = 'This one is on me!';
   } else if (distance > 2500) {
     result = 'Ride is not allowed';
   } else if (distance > 2000) {
